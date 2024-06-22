@@ -12,7 +12,7 @@
         <img src=https://github.com/huiishan99/OpenGL/assets/61934115/0aea4927-ad79-406f-b779-0b3b77642298 width=40% />
   - [x] Index Buffer  
         <img src=https://github.com/huiishan99/OpenGL/assets/61934115/71129be2-1476-41dc-bd06-5de0513aedbc width=40% />
-  - [ ] Organizing  
+  - [x] Organizing  
   - [ ] Shaders  
   - [ ] Textures  
   - [ ] Going 3D  
