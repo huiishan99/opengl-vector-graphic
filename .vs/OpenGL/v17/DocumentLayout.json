@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\YoutubeOpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|C:\\dev\\YoutubeOpenGL\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{128B9EFC-6218-42EC-BFFA-9A0D9DD700E2}|YoutubeOpenGL.vcxproj|solutionrelative:default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VBO.h",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\VBO.h",
+              "RelativeDocumentMoniker": "VBO.h",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\VBO.h",
+              "RelativeToolTip": "VBO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-22T09:59:46.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VBO.cpp",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\VBO.cpp",
+              "RelativeDocumentMoniker": "VBO.cpp",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\VBO.cpp",
+              "RelativeToolTip": "VBO.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-22T10:01:34.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EBO.h",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\EBO.h",
+              "RelativeDocumentMoniker": "EBO.h",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\EBO.h",
+              "RelativeToolTip": "EBO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-22T10:04:40.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EBO.cpp",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\EBO.cpp",
+              "RelativeDocumentMoniker": "EBO.cpp",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\EBO.cpp",
+              "RelativeToolTip": "EBO.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-22T10:06:07.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VAO.h",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\VAO.h",
+              "RelativeDocumentMoniker": "VAO.h",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\VAO.h",
+              "RelativeToolTip": "VAO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-22T10:08:05.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VAO.cpp",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\VAO.cpp",
+              "RelativeDocumentMoniker": "VAO.cpp",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\VAO.cpp",
+              "RelativeToolTip": "VAO.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-22T10:09:33.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shaderClass.cpp",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\shaderClass.cpp",
+              "RelativeDocumentMoniker": "shaderClass.cpp",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\shaderClass.cpp",
+              "RelativeToolTip": "shaderClass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-22T09:54:08.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T05:12:37.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "glad.c",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\glad.c",
+              "RelativeDocumentMoniker": "glad.c",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\glad.c",
+              "RelativeToolTip": "glad.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-22T10:21:32.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "default.frag",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\default.frag",
+              "RelativeDocumentMoniker": "default.frag",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\default.frag",
+              "RelativeToolTip": "default.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-22T09:48:11.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "default.vert",
+              "DocumentMoniker": "C:\\dev\\YoutubeOpenGL\\default.vert",
+              "RelativeDocumentMoniker": "default.vert",
+              "ToolTip": "C:\\dev\\YoutubeOpenGL\\default.vert",
+              "RelativeToolTip": "default.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-22T09:46:35.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

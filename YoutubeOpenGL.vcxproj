@@ -24,6 +24,7 @@
     <ProjectGuid>{128b9efc-6218-42ec-bffa-9a0d9dd700e2}</ProjectGuid>
     <RootNamespace>YoutubeOpenGL</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>OpenGL</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -137,8 +138,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="EBO.cpp" />
     <ClCompile Include="glad.c" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="shaderClass.cpp" />
+    <ClCompile Include="VAO.cpp" />
+    <ClCompile Include="VBO.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="default.frag" />
+    <None Include="default.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EBO.h" />
+    <ClInclude Include="shaderClass.h" />
+    <ClInclude Include="VAO.h" />
+    <ClInclude Include="VBO.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
