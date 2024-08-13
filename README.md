@@ -16,6 +16,7 @@
   - [x] Shaders  
          <img src=https://github.com/huiishan99/OpenGL/assets/61934115/6905ec1c-08fa-4385-80bd-0b27dc95bd76 width=40% />
   - [ ] Textures  
+         <img src=https://github.com/user-attachments/assets/a2595eba-31d3-46a1-a58c-639c12562aa2 width=40% />
   - [ ] Going 3D  
   - [ ] Camera  
   - [ ] Lighting  
