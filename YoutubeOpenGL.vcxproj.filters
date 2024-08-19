@@ -16,6 +16,9 @@
     <Filter Include="资源文件\Shaders">
       <UniqueIdentifier>{07699232-d7c5-48a0-abd6-5fca1e97ebf3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\Textures">
+      <UniqueIdentifier>{0485c4f8-b777-469e-949e-a3ea2e4abdfa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="glad.c">
@@ -24,17 +27,20 @@
     <ClCompile Include="Main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="shaderClass.cpp">
-      <Filter>资源文件</Filter>
-    </ClCompile>
     <ClCompile Include="VBO.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="EBO.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shaderClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stb.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="VAO.cpp">
-      <Filter>资源文件</Filter>
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -58,5 +64,10 @@
     <ClInclude Include="VAO.h">
       <Filter>头文件</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Users\huiis\Downloads\psyduck.png">
+      <Filter>资源文件\Textures</Filter>
+    </Image>
   </ItemGroup>
 </Project>
