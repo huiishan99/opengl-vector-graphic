@@ -1,9 +1,0 @@
-﻿  Main.cpp
-glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(input.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-glfw3.lib(monitor.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(monitor.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-glfw3.lib(null_monitor.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(null_monitor.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-glfw3.lib(null_window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(null_window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-glfw3.lib(win32_joystick.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_joystick.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-glfw3.lib(win32_window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-  YoutubeOpenGL.vcxproj -> C:\dev\YoutubeOpenGL\x64\Debug\OpenGL.exe
