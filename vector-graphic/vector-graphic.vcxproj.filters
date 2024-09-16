@@ -30,6 +30,12 @@
     <ClCompile Include="VBO.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="EBO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VAO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="default.vert">
@@ -47,6 +53,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="EBO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VAO.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
