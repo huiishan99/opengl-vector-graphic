@@ -16,6 +16,9 @@
     <Filter Include="资源文件\Shaders">
       <UniqueIdentifier>{b9d86766-ca18-43c1-bcb2-c136152f90c6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="资源文件\Textures">
+      <UniqueIdentifier>{e8a52fea-6e39-4534-8f56-05d1d504f2f2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="glad.c">
@@ -34,6 +37,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="VAO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -58,5 +67,13 @@
     <ClInclude Include="VAO.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="psyduck.png">
+      <Filter>资源文件\Textures</Filter>
+    </Image>
   </ItemGroup>
 </Project>

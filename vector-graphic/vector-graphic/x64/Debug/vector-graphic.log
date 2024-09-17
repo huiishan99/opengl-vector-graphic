@@ -1,5 +1,5 @@
 ﻿  Main.cpp
-  shaderClass.cpp
+  Texture.cpp
   正在生成代码...
 glfw3.lib(init.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(init.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
 glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
