@@ -9,20 +9,15 @@ layout (location = 2) in vec2 aTex;
 
 // Outputs the color to the fragment shader
 out vec3 color;
-
+// Outputs the texture coordinates to the fragment shader
 out vec2 texCoord;
 
-// Controls the scale of the vertices
-uniform float scale;
-
-uniform mat4 model;
-uniform mat4 view;
-uniform mat4 proj;
+uniform mat4 camMatrix;
 
 void main()
 {
 	// Output the position of the vertex
-	gl_Position = proj * view * model * vec4(aPos, 1.0);
+	gl_Position = camMatrix * vec4(aPos, 1.0);
 	// Assign the color to the output
 	color = aColor;
 	texCoord = aTex;
