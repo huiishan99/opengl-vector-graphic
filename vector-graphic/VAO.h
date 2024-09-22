@@ -7,7 +7,7 @@
 class VAO
 {
 public:
-	// Reference ID of the Vertex Array Object
+	// ID reference for the Vertex Array Object
 	GLuint ID;
 	// Constructor that generates a VAO ID
 	VAO();
@@ -22,4 +22,4 @@ public:
 	void Delete();
 };
 
-#endif // !VAO_CLASS_H
+#endif
