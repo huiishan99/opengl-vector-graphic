@@ -3,6 +3,7 @@ C:\dev\OpenGL\vector-graphic\EBO.cpp;C:\dev\OpenGL\vector-graphic\vector-graphic
 C:\dev\OpenGL\vector-graphic\glad.c;C:\dev\OpenGL\vector-graphic\vector-graphic\x64\Debug\glad.obj
 C:\dev\OpenGL\vector-graphic\Main.cpp;C:\dev\OpenGL\vector-graphic\vector-graphic\x64\Debug\Main.obj
 C:\dev\OpenGL\vector-graphic\Mesh.cpp;C:\dev\OpenGL\vector-graphic\vector-graphic\x64\Debug\Mesh.obj
+C:\dev\OpenGL\vector-graphic\Model.cpp;C:\dev\OpenGL\vector-graphic\vector-graphic\x64\Debug\Model.obj
 C:\dev\OpenGL\vector-graphic\shaderClass.cpp;C:\dev\OpenGL\vector-graphic\vector-graphic\x64\Debug\shaderClass.obj
 C:\dev\OpenGL\vector-graphic\stb.cpp;C:\dev\OpenGL\vector-graphic\vector-graphic\x64\Debug\stb.obj
 C:\dev\OpenGL\vector-graphic\Texture.cpp;C:\dev\OpenGL\vector-graphic\vector-graphic\x64\Debug\Texture.obj
