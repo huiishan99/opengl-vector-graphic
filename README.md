@@ -1,3 +1,7 @@
+This repository contains my first OpenGL project, created while following an online tutorial. The goal of this project is to learn the basics of OpenGL, specifically focusing on rendering simple vector graphics.
+
+
+## Task
 - [x] OpenGL Course - Create 3D and 2D Graphics With C++ [video](https://www.youtube.com/watch?v=45MIykWJ-C4&t=5580s)
     - [x] Install
       - Source Download:
